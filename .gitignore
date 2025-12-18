@@ -1,0 +1,17 @@
+brainenv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# model weights
+*.pt
+*.pth
+
+# training outputs
+runs/
+results/
+
+# dataset
+dataset/
+train.cache
+val.cache
