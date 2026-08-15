@@ -1,0 +1,6 @@
+model,accuracy,precision,recall,f1_score,confusion_matrix
+YOLOv8,99.11,99.11,99.11,99.11,results/metrics/cm_YOLOv8.png
+FasterRCNN,99.11,99.13,99.11,99.11,results/metrics/cm_FasterRCNN.png
+MaskRCNN,99.33,99.34,99.33,99.33,results/metrics/cm_MaskRCNN.png
+RetinaNet,98.89,98.9,98.89,98.89,results/metrics/cm_RetinaNet.png
+SSD-MobileNet,98.67,98.7,98.67,98.67,results/metrics/cm_SSD-MobileNet.png
